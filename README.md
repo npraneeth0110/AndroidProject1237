@@ -25,14 +25,4 @@ This sample uses the Gradle build system. To build this project, use the
 4. Push your branch (git push origin my-new-feature)
 5. Create a new Pull Request
 
-## QR-Code-Scanner-Generator App Screenshots
-![](screenshots/ss1.jpeg)
-![](screenshots/ss2.jpeg)
-![](screenshots/ss3.jpeg)
-![](screenshots/ss4.jpeg)
-![](screenshots/ss5.jpeg)
-![](screenshots/ss6.jpeg)
-![](screenshots/ss7.jpeg)
-![](screenshots/ss8.jpeg)
-![](screenshots/ss9.jpeg)
 
