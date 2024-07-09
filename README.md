@@ -13,12 +13,6 @@ This app can do both task
 - Android Support Repository v23.3.0
 
 
-## Installation
-Clone this repository and import into **Android Studio**
-```bash
-git clone https://github.com/neelangshu007/QR-Code-Scanner-Generator.git
-```
-
 ## Getting Started
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
